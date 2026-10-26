@@ -11,7 +11,7 @@ crash.*.log
 terraform.rc
 
 # Sensitive / local overrides
-*.tfvars
+
 *.tfvars.json
 override.tf
 override.tf.json
